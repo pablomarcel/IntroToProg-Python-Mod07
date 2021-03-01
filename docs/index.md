@@ -33,3 +33,7 @@ this is a link to [Title](#title).
 print('hello world)
 ```
 #### listing 1
+
+![Markdown Code](markdown_code.png "Markdown Code")
+
+#### Figure 1. The Markdown Code
