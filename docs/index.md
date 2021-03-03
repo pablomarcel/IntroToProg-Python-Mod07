@@ -109,7 +109,7 @@ Tab
 ```
 #### Figure 3. Shows a partial list of the Markdown language
 
-![Formatted Text](formatted markdown.png)
+![Formatted Text](formatted-markdown.png)
 #### Figure 4. Shows an example of formatted text
 
  The answer on how to work with links to sections within the document was obtained [here](https://gist.github.com/asabaylus/3071099)
@@ -118,7 +118,7 @@ Tab
 
  A text file can be interpreted as composed of a sequence of characters, in which each character is composed of one byte (8 bits). A hex editor like XVI32 can be used to illustrate the concept. In this example, a simple text file was created in notepad and filled with words ‘Text File’. The first character, ‘2’, is represented by the hex value ‘32’ which in turn is represented by binary value ‘00110010’. The hex editor is available at [xvi32](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm#download)
 
-![Number 2 as Text](number-2-as-text.png)
+![Number 2 as Text](character-2.png)
 #### Figure 5. Shows character ‘2’, as a ‘50’ in decimal, ’32’ in hex and ‘00110010’ in binary 
 
  Figure 5 Shows character ‘2’, as a ‘50’ in decimal, ’32’ in hex and ‘00110010’ in binary 
