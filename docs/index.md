@@ -126,7 +126,7 @@ Binary files, on the other hand, are composed of more complex data but can be in
 
 A database can be used as an example of binary file. In this case, I used database ‘chinook’ available at the link below.  This database stores 11 tables and data. Figure 6 the contents of the binary file as seen in the hex editor. Figure 6 shows a particular address that stores number 2 as data, link [here](https://www.sqlitetutorial.net/sqlite-sample-database/)
 
-![Number 2 as Number](number-2-as-number.png)
+![Number 2 as Number](number-2.png)
 #### Figure 6. Shows number ‘2’ as ‘2’ in decimal, ‘02’ in hex, and ‘00000010’ in binary 
 
  It is interesting to note that numbers are captured as numbers in binary files and not as text. Two as character is ‘50’ in decimal, ’32’ in hex, and ‘00110010’ in binary. But two as a number is ‘2’ in decimal, ‘02’ in hex, and ‘00000010’ in binary per figure 6.
